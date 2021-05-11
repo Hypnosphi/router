@@ -1,5 +1,8 @@
 {
-  "name": "@reach/router",
+  "name": "@hypnosphi/reach-router",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.3.4",
   "description": "Next generation Routing for React.",
   "main": "index.js",
